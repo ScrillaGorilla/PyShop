@@ -1,1 +1,1 @@
-# This is a practice ecommerce website i made using python, django, and some bootstrap elements on Pycharm. you can run a server on your local computer with django in pycharm after installing django by typing "python manage.py runserver" in the terminal on pycharm.
+# This is a practice ecommerce website i made using python, django, and some bootstrap elements on Pycharm. you can run a server on your local computer to view the website with django in pycharm after installing django by typing "python manage.py runserver" in the terminal on pycharm.
